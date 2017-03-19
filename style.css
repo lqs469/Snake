@@ -7,9 +7,15 @@
 
 .tail {
   position: absolute;
-  /*transition: all .1s ease;*/
+  width: 10px;
+  height: 10px;
+  background: #666;
 }
 
 .apple {
   position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #ff0000;
+  border-radius: 3px;
 }
