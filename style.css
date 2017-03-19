@@ -1,0 +1,15 @@
+#root {
+  width: 500px;
+  height: 500px;
+  background: #eee;
+  position: relative;
+}
+
+.tail {
+  position: absolute;
+  /*transition: all .1s ease;*/
+}
+
+.apple {
+  position: absolute;
+}
