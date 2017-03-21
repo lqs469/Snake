@@ -142,5 +142,5 @@ window.addEventListener('keydown', (e) => {
         break
       default:
     }
-  }, 200 / level)
+  }, 100 / level)
 })
