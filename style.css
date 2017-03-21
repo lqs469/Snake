@@ -5,17 +5,16 @@
   position: relative;
 }
 
-.tail {
-  position: absolute;
+.body {
   width: 10px;
   height: 10px;
   background: #666;
+  position: absolute;
 }
 
 .apple {
-  position: absolute;
   width: 10px;
   height: 10px;
   background: #ff0000;
-  border-radius: 3px;
+  position: absolute;
 }
