@@ -1,0 +1,20 @@
+#root {
+  height: 500px;
+  width: 500px;
+  position: relative;
+  background: #eee;
+}
+
+.body {
+  width: 10px;
+  height: 10px;
+  background: #666;
+  position: absolute;
+}
+
+.apple {
+  width: 10px;
+  height: 10px;
+  background: red;
+  position: absolute;
+}
